@@ -1,0 +1,12 @@
+name: r_olimpiadas2024
+title: r_olimpiadas2024
+username: estacionr
+account: estacionr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12412322
+bundleId: 8950393
+url: https://estacionr.shinyapps.io/r_olimpiadas2024/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
